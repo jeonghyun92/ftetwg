@@ -310,7 +310,7 @@ header {
 
 .no-parallax header.transparent.light #brand a,
 .no-parallax header.transparent.light nav > ul > li > a {
-    color: #333 !important;
+    color: #000 !important;
 }
 
 header.transition {
@@ -374,7 +374,7 @@ nav {
 
 #brand a,
 nav a {
-    color: #333;
+    color: #000;
 }
 
 #brand a img#default-logo,
@@ -407,12 +407,12 @@ only screen and (min-resolution: 144dpi) {
 
 header.transparent.light #brand a,
 header.transparent.light nav > ul > li > a {
-    color: #fff;
+    color: #000;
 }
 
 header.fixed-header.transparent.light #brand a,
 header.fixed-header.transparent.light nav > ul > li > a {
-    color: #333;
+    color: #000;
     text-shadow: none;
 }
 
@@ -3490,7 +3490,7 @@ footer .row-content.buffer {
 
     #brand a,
     nav a {
-        color: #333 !important;
+        color: #000 !important;
     }
 
     nav a:hover {
